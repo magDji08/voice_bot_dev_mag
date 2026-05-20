@@ -1,0 +1,29 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Rebuild backend container",
+			"type": "shell",
+			"command": "docker compose up -d --build backend",
+			"group": "build"
+		},
+		{
+			"label": "Rebuild backend container",
+			"type": "shell",
+			"command": "docker compose up -d --build backend",
+			"group": "build"
+		},
+		{
+			"label": "Rebuild backend container",
+			"type": "shell",
+			"command": "docker compose up -d --build backend",
+			"group": "build"
+		},
+		{
+			"label": "Rebuild backend container",
+			"type": "shell",
+			"command": "docker compose up -d --build backend",
+			"group": "build"
+		}
+	]
+}

@@ -1,0 +1,2 @@
+Test d'upload VoiceBot Admin - 2026-05-16
+Ce fichier valide le flux admin upload + persistance.
